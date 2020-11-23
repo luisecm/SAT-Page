@@ -18,11 +18,6 @@ JS Standard was used as coding style
 - Chai
 
 # Installation
-- `npm install`
-- `npm install selenium webdriver`
-- `npm install chromedriver`
-- `npm install mocha`
-- `npm install chai`
 - `npm install @antiadmin/anticaptchaofficial`
 - AntiCaptcha USER KEY to be added to test/sat.js file
 
